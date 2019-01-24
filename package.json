@@ -1,0 +1,20 @@
+{
+    "dependencies": {},
+    "description": "Riverdi Displays support",
+    "fullname": "lib.riverdi.displays",
+    "git_pointer": "zerynth://zerynth-libs/riverdi-displays",
+    "keywords": [
+        "riverdi",
+        "graphics"
+    ],
+    "repo": "official",
+    "title": "Riverdi Displays Library",
+    "version": "r2.2.0",
+    "whatsnew": "",
+    "info":{
+        "name":"Zerynth Riverdi Displays Library",
+        "type":"graphics",
+        "chip_name":"Displays",
+        "chip_manufacturer":"riverdi"
+    }
+}
