@@ -1,0 +1,13 @@
+---
+description: Riverdi Displays support
+fullname: lib.riverdi.displays
+info:
+    chip_manufacturer: riverdi
+    chip_name: Displays
+    name: Zerynth Riverdi Displays Library
+    type: graphics
+keywords:
+- riverdi
+- graphics
+title: Riverdi Displays Library
+...
